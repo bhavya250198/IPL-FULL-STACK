@@ -1,0 +1,194 @@
+@media(min-width:1025px)
+{
+.stats{
+    margin: 40px 20px 20px 100px
+}
+.batsman
+{
+    border: 1px solid black;
+    margin: -34px -50px -1px -49px;
+    background-color: #3f51b5;
+    padding: 10px;
+}
+.batsman-1{
+    border: 1px solid black;
+    margin: -34px -50px -1px -51px;
+    background-color: #3f51b5;
+    padding: 10px;
+}
+.charts-1{
+    overflow-x: scroll;
+    overflow-y: hidden;
+    width: 505px;
+    margin-left: -45px;
+    margin-top: 3px;
+}
+
+.top{
+    font-size:20px;
+    font-weight:auto;
+    color:aliceblue;
+    margin:0px 101px 0px 20px;
+}
+.data-batsman
+{
+    
+    margin: 25px;
+    padding: 35px 50px 52px 50px;
+}
+.data-batsman-1
+{
+    margin: 25px;
+    padding: 35px 50px 52px 50px;
+}
+}
+@media(min-width:769px) and (max-width:1025px)
+{
+    .player-stats{
+        margin-left: 462px;
+        font-size: 30px;
+    }
+    .stats{
+        margin: 40px 20px 20px 200px
+    }
+    .batsman
+    {
+        border: 1px solid black;
+        margin: -34px -43px -1px -15px;
+        background-color: #3f51b5;
+        padding: 10px;
+    }
+    .batsman-1{
+        border: 1px solid black;
+        margin: -34px -11px -1px -16px;
+        background-color: #3f51b5;
+        padding: 10px;
+    }
+    .charts-1{
+        overflow-x: scroll;
+        overflow-y: hidden;
+        width: 600px;
+        margin-top: 3px;
+    }
+    
+    .top{
+        font-size:20px;
+        font-weight:auto;
+        color:aliceblue;
+        margin:0px 101px 0px 20px;
+    }
+    .data-batsman
+    {
+        border: 1px solid;
+        padding: 30px 41px 30px 14px;
+        margin: 50px 16px 50px -73px;
+    }
+    .data-batsman-1
+
+{
+    border: 1px solid;
+    padding: 30px 11px 30px 14px;
+    margin:50px 50px 50px 236px;
+}
+}
+@media(min-width:577px) and (max-width:768px)
+{
+    .player-stats{
+       margin-left: 339px;
+    font-size: 30px;
+    margin-right: -139px;
+    }
+    .stats{
+        margin: 40px 20px 20px 200px
+    }
+    .batsman
+    {
+        border: 1px solid black;
+        margin: -34px -43px -1px -15px;
+        background-color: #3f51b5;
+        padding: 10px;
+    }
+    .batsman-1{
+        border: 1px solid black;
+        margin: -34px -11px -1px -16px;
+        background-color: #3f51b5;
+        padding: 10px;
+    }
+    .charts-1{
+        overflow-x: scroll;
+        overflow-y: hidden;
+        width: 600px;
+        margin-top: 3px;
+    }
+    
+    .top{
+        font-size:20px;
+        font-weight:auto;
+        color:aliceblue;
+        margin:0px 101px 0px 20px;
+    }
+    .data-batsman
+    {
+        border: 1px solid;
+        padding: 30px 41px 30px 14px;
+        margin: 50px 16px 50px -89px;
+    }
+    .data-batsman-1
+
+{
+    border: 1px solid;
+    padding: 30px 11px 30px 14px;
+    margin: 50px 50px 50px 353px;
+}
+}
+@media (min-width:300px) and (max-width:577px)
+{
+    .stats{
+        margin: 35px 0px 20px 100px;
+    }
+    .player-stats {
+        font-size: 30px;
+        margin-right: -50px;
+    }
+    .batsman
+{
+    border: 1px solid black;
+    margin: -34px -59px -1px -283px;
+    background-color: #3f51b5;
+    padding: 10px;
+}
+.batsman-1{
+    border: 1px solid black;
+    margin: -34px -59px -1px -283px;
+    background-color: #3f51b5;
+    padding: 10px;
+}
+.charts-1{
+    margin-left: -274px;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    width: 309px;
+    margin-top: 3px;
+}
+.top{
+    font-size:20px;
+    font-weight:auto;
+    color:aliceblue;
+    margin:0px 101px 0px 76px;
+}
+.data-batsman{
+    border: 1px solid;
+    padding: 15px 58px 14px 282px;
+    margin-left: 28px;
+    align-content: center;
+    margin-top: 40px;
+}
+.data-batsman-1
+{
+    border: 1px solid;
+    padding: 15px 58px 14px 282px;
+    margin-left: 28px;
+    align-content: center;
+    margin-top: 40px;
+}
+}

@@ -1,0 +1,349 @@
+@media(min-width:1025px)
+{
+.seasons
+{
+    font-size:36px;
+    font-weight: bold;
+
+}
+.years
+{
+    margin: 2px 4px 0px 2px;;
+    font-size: 45px;
+    text-decoration: none;
+    text-decoration-color: black;
+}
+
+div.card-deck .card {
+    display: flex;
+    border: 1px solid;
+    margin: 0px 20px 0px 20px;
+    padding: 16px 16px 0px 16px;
+    width: 100px;
+    height: 100px;
+}
+.season-one
+{
+    border:1px solid;
+    padding:27px 35px 27px 35px;
+    margin:16px;
+}
+.season-two
+{
+    border:1px solid;
+    margin: 16px 20px 16px 10px;
+    padding: 27px 35px 27px 35px;
+}
+.season-three
+{
+    border:1px solid;
+    margin: 16px 28px 16px 13px;
+    padding: 27px 35px 27px 35px;
+}
+.season-four
+{
+    border:1px solid;
+    margin: 17px 20px 16px 10px;
+    padding: 27px 35px 27px 35px;
+}
+.season-five
+{
+    border:1px solid;
+    margin: 16px 20px 16px 10px;
+    padding: 27px 35px 27px 35px;
+}
+.season-six
+{
+    border:1px solid;
+    margin:16px 20px 16px 10px;
+    padding: 27px 35px 27px 35px; 
+}
+.season-seven
+{
+    border:1px solid;
+    margin: 16px 20px 16px 10px;
+    padding: 27px 35px 27px 35px; 
+}
+.season-eight
+{
+    border:1px solid;
+    margin:16px 20px 16px 10px;
+    padding: 27px 35px 27px 35px;
+}
+.season-nine
+{
+    border:1px solid;
+    margin:16px 20px 16px 10px;
+    padding: 27px 35px 27px 35px;
+}
+
+.season-grid
+{
+    width:40px;
+}
+.season-cards
+{
+    margin-left:100px;
+}
+
+}
+@media(min-width:769px)and(max-width:1025px)
+{
+    .grids{
+        flex: 0 0 48.7%;
+    }
+    .seasons
+{
+    font-size:36px;
+    font-weight: bold;
+
+}
+.years
+{
+    margin: 2px 4px 0px 2px;;
+    font-size: 45px;
+    text-decoration: none;
+    text-decoration-color: black;
+}
+
+div.card-deck .card {
+    display: flex;
+    border: 1px solid;
+    margin: 0px 20px 0px 20px;
+    padding: 16px 16px 0px 16px;
+    width: 100px;
+    height: 100px;
+}
+.season-one
+{
+    border:1px solid;
+    padding:27px 35px 27px 35px;
+    margin: 1px -1px 31px -71px;
+}
+.season-two
+{
+    border:1px solid;
+    margin: 2px 15px 30px -69px;
+    padding: 27px 35px 27px 35px;
+}
+.season-three
+{
+    border:1px solid;
+    margin: 2px 45px 30px 25px;
+    padding: 27px 35px 27px 35px;
+}
+.season-four
+{
+    border:1px solid;
+    margin: 1px 36px 31px 12px;
+    padding: 27px 35px 27px 35px;
+}
+.season-five
+{
+    border:1px solid;
+    margin: 0px 20px 31px 6px;
+    padding: 27px 35px 27px 35px;
+}
+.season-six
+{
+    border:1px solid;
+    margin: 1px 20px 31px 14px;
+    padding: 27px 35px 27px 35px; 
+}
+.season-seven
+{
+    border:1px solid;
+    margin: 1px 33px 30px 13px;
+    padding: 27px 35px 27px 35px; 
+}
+.season-eight
+{
+    border:1px solid;
+    margin: 0px 20px 27px 10px;
+    padding: 27px 35px 27px 35px;
+}
+.season-nine
+{
+    border:1px solid;
+    margin: 0px 20px 26px 20px;
+    padding: 27px 35px 27px 35px;
+}
+
+.season-grid
+{
+    width:40px;
+}
+.season-cards
+{
+    margin-left: 174px;
+}
+}
+@media( min-width:577px) and (max-width:769px)
+{
+    .grids{
+        flex: 0 0 48.7%;
+    }
+    .seasons
+{
+    font-size:36px;
+    font-weight: bold;
+    margin: 0px 135px 20px -442px;
+
+}
+.years
+{
+    margin: 2px 4px 0px 2px;;
+    font-size: 45px;
+    text-decoration: none;
+    text-decoration-color: black;
+}
+
+div.card-deck .card {
+    display: flex;
+    border: 1px solid;
+    margin: 0px 20px 0px 20px;
+    padding: 16px 16px 0px 16px;
+    width: 100px;
+    height: 100px;
+}
+.season-one
+{
+    border:1px solid;
+    padding:27px 35px 27px 35px;
+    margin: 0px 0px 20px -900px;
+}
+.season-two
+{
+    border:1px solid;
+    margin: 0px 0px 20px -783px;
+    padding: 27px 35px 27px 35px;
+}
+.season-three
+{
+    border:1px solid;
+    margin: 0px 0px 20px -665px;
+    padding: 27px 35px 27px 35px;
+}
+.season-four
+{
+    border:1px solid;
+    margin: 0px 0px 20px -542px;
+    padding: 27px 35px 27px 35px;
+}
+.season-five
+{
+    border:1px solid;
+    margin: 0px 0px 20px -418px;
+    padding: 27px 35px 27px 35px;
+}
+.season-six
+{
+    border:1px solid;
+    margin:  0px 0px 20px -300px;
+    padding: 27px 35px 27px 35px; 
+}
+.season-seven
+{
+    border:1px solid;
+    margin:  0px 0px 20px -181px;
+    padding: 27px 35px 27px 35px; 
+}
+.season-eight
+{
+    border:1px solid;
+    margin:  0px 0px 20px -47px;
+    padding: 27px 35px 27px 35px;
+}
+.season-nine
+{
+    border:1px solid;
+    margin: 0px 0px 20px 76px;
+    padding: 27px 35px 27px 35px;
+}
+
+.season-grid
+{
+    width:40px;
+}
+.season-cards
+{
+    margin-left: 1000px;
+} 
+}
+@media(min-width:300px) and (max-width:577px)
+{
+   .years 
+{
+    margin: 2px 4px 0px 2px;;
+    font-size: 30px;
+    text-decoration: none;
+    text-decoration-color: black;
+}
+
+   
+    .seasons{
+        margin-left:5px;
+        font-size:36px;
+        font-weight: bold;
+    }
+  
+    .season-cards{
+        margin-left:137px;
+
+    }
+    .season-one
+{
+    border:1px solid;
+    padding:27px 51px 27px 35px;
+    margin: 10px 0px 20px 100px;
+}
+.season-two
+{
+    border:1px solid;
+    margin: 10px 0px 20px 100px;
+    padding: 27px 51px 27px 35px;
+}
+.season-three
+{
+    border:1px solid;
+    margin: 10px 0px 20px 100px;
+    padding: 27px 51px 27px 35px;
+}
+.season-four
+{
+    border:1px solid;
+    margin: 10px 0px 20px 100px;
+    padding: 27px 51px 27px 35px;
+}
+.season-five
+{
+    border:1px solid;
+    margin: 10px 0px 20px 100px;
+    padding: 27px 51px 27px 35px;
+}
+.season-six
+{
+    border:1px solid;
+    margin:  10px 0px 20px 100px;
+    padding: 27px 51px 27px 35px; 
+}
+.season-seven
+{
+    border:1px solid;
+    margin:  10px 0px 20px 100px;
+    padding: 27px 51px 27px 35px; 
+}
+.season-eight
+{
+    border:1px solid;
+    margin:  10px 0px 20px 100px;
+    padding: 27px 51px 27px 35px;
+}
+.season-nine
+{
+    border:1px solid;
+    margin:10px 0px 20px 100px;
+    padding: 27px 51px 27px 35px;
+}
+
+}

@@ -1,0 +1,320 @@
+@media (min-width:1025px)
+{
+    .session-champions
+    {
+        font-size:22px;
+    }
+.season{
+    margin: 25px 0px 0px -4px;
+    font-size: 31px;
+}
+.number
+{
+    margin-top: 20px;
+    font-size: 28px;
+    margin-left: -15px;
+}
+.champions
+{
+    margin: 25px 0px 0px -25px;
+    font-size: 31px;
+}
+.paper{
+    border:1px solid;
+        padding: 27px;
+        margin-left:22px;  
+        margin-top:20px ; 
+        margin-right:55px;   
+}
+.champions
+{
+    padding:20px;
+    margin-left:23px;  
+        margin-top:20px ; 
+}
+.matches
+{
+    border:1px solid;
+    padding:27px;
+    margin-left:-10px;  
+        margin-top:20px ;
+}
+.MuiGrid-root
+{
+    display:flex;
+}
+.ipl-stats{
+ margin-left:80px;
+}
+.season-count{
+    font-size:30px;
+}
+.season-count-matches{
+    font-size:30px;
+}
+.season-count-fours{
+    font-size:30px;
+}
+.season-count-sixes{
+    font-size:30px;
+}
+.season-count-wickets{
+    font-size:30px;
+}
+.session-matches{
+    font-size:22px;
+}
+.session-fours{
+    font-size:22px;
+}
+.session-sixes{
+    font-size:22px;
+}
+.session{
+    font-size:22px;
+}
+}
+
+@media(min-width:769px) and (max-width:1025px)
+{
+    .session{
+        font-size:22px;
+    }
+    .season-count{
+        font-size:30px;
+    }
+    .season{
+        margin: 25px 0px 0px -4px;
+        font-size: 31px;
+    }
+    .session-champions{
+        font-size:22px;
+    }
+    .session-matches{
+        font-size:22px;
+    }
+    .season-count-sixes{
+        font-size: 30px;
+    }
+    .session-matches{
+        font-size:22px;
+    }
+    .season-count-matches{
+        font-size:30px;
+    }
+    .season-count-fours{
+        font-size:30px;
+    }
+    .season-count-wickets{
+        font-size:30px;
+    }
+    .session-fours{
+        font-size:22px;
+    }
+    .session-sixes{
+        font-size:22px;
+    }
+    .number
+    {
+        margin-top: 20px;
+        font-size: 28px;
+        margin-left: -15px;
+    }
+    .champions
+    {
+        margin: 25px 0px 0px -25px;
+        font-size: 31px;
+    }
+    .paper{
+        border:1px solid;
+            padding: 27px;
+            margin-left:22px;  
+            margin-top:20px ; 
+            margin-right:55px;   
+    }
+    .champions
+    {
+        padding:20px;
+        margin-left:23px;  
+            margin-top:20px ; 
+    }
+    .matches
+    {
+        border:1px solid;
+        padding:27px;
+        margin-left:23px;  
+            margin-top:20px ;
+            margin-right: 73px;
+    }
+    .MuiGrid-root
+    {
+        display:flex;
+    }
+    .ipl-stats{
+        margin-left:80px;
+       }
+}
+@media(min-width:576px) and (max-width:769px)
+{
+    .season-count-wickets{
+        font-size:30px;
+    }
+    .session-fours{
+        font-size:22px;
+    }
+    .session-sixes{
+        font-size:22px;
+    }
+    .session{
+        font-size:22px;
+    }
+    .season-count{
+        font-size:30px;
+    }
+    .season{
+        margin: 25px 0px 0px -4px;
+        font-size: 31px;
+    }
+    .session-champions{
+        font-size:22px;
+    }
+    .session-matches{
+        font-size:22px;
+    }
+    .season-count-sixes{
+        font-size: 30px;
+    }
+    .session-matches{
+        font-size:22px;
+    }
+    .season-count-matches{
+        font-size:30px;
+    }
+    .season-count-fours{
+        font-size:30px;
+    }
+    
+    .number
+    {
+        margin-top: 20px;
+        font-size: 28px;
+        margin-left: -15px;
+    }
+    .champions
+    {
+        margin: 25px 0px 0px -25px;
+        font-size: 31px;
+    }
+    .paper{
+        border:1px solid;
+            padding: 27px;
+            margin-left:22px;  
+            margin-top:20px ; 
+            margin-right:55px;   
+    }
+    .champions
+    {
+        padding:20px;
+        margin-left:23px;  
+            margin-top:20px ; 
+    }
+    .matches
+    {
+        border:1px solid;
+        padding:27px;
+        margin-left:23px;  
+            margin-top:20px ;
+            margin-right: 73px;
+    }
+    .MuiGrid-root
+    {
+        display:flex;
+    }
+    .ipl-stats{
+        margin-left:80px;
+       }
+}
+.MuiTypography-root {
+    margin: 12px;
+}
+@media (min-width:300px) and (max-width:576px)
+{
+    .ipl-stats{
+        margin-left:200px;
+       }
+       .paper{
+        border:1px solid;
+        padding: 27px 100px 27px 27px;
+        margin-left:0px;  
+        margin-top:20px ; 
+        margin-right:75px;   
+}
+.season-count{
+    margin: 32px;
+    font-size:30px;
+    text-align: center;
+}
+.season-count-matches{
+    margin: 15px;
+    font-size:30px;
+    text-align: center;
+}
+.season-count-fours
+{
+    margin: -5px;
+    font-size:30px;
+    text-align: center;
+}
+.season-count-sixes
+{
+    margin: 3px;
+    font-size:30px;
+    text-align: center;
+}
+.season-count-wickets
+{
+    margin: 7px;
+    font-size:30px;
+    text-align: center;
+}
+.session
+{
+    margin-left:-2px;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
+.session-champions
+{margin-left: -18px;
+    
+    font-size: 22px;
+    font-weight: bold;
+}
+.session-matches
+{
+    margin-left: -6px;
+    font-size: 22px;
+    font-weight: bold;
+}
+.session-fours
+{
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 3px;
+    
+}
+.session-sixes
+{
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+.matches
+{
+    border:1px solid;
+    padding:27px 100px 27px 27px;
+    margin-left:0px;  
+        margin-top:20px ;
+        margin-right: 73px;
+}
+}

@@ -1,0 +1,543 @@
+@media(min-width:1025px)
+{
+    .top-batsmen
+    {
+        border: 1px solid;
+        margin: 40px 20px 20px 100px;
+        padding: 20px 50px 20px 15px;
+    }
+    .top-bowler
+    {
+        border: 1px solid;
+        margin: 40px 20px 20px 500px;
+        padding: 20px 52px 20px 15px;
+    }
+    .dotballs
+    {
+        border: 1px solid;
+        margin: 40px 20px 20px 100px;
+        padding: 20px 50px 20px 15px;
+    }
+    .bowling-types
+    {
+        border: 1px solid;
+        margin: 40px 20px 20px 500px;
+        padding: 20px 52px 20px 15px;
+    }
+.Rabi
+{
+    font-size:20px;
+    font-weight:auto;
+    color: aliceblue;
+    margin:0px 101px 0px 20px;
+}
+.compounds
+{
+    border:1px solid black;
+    margin: -34px -51px -1px -16px;
+    background-color: #3f51b5;
+    padding:10px;
+}
+.compounds-1
+{
+    border:1px solid black;
+    margin: -34px -53px -1px -16px;
+    background-color: #3f51b5;
+    padding:10px;
+}
+.charts{
+    overflow-x: scroll;
+    overflow-y:hidden;
+    width: 500px;
+    margin-top: 1px;
+}
+.overall
+{
+    border:1px solid black;
+    margin: -33px -120px -1px -16px;
+    background-color: #3f51b5;
+    padding:10px;
+
+}
+.won-toss
+{
+    border:1px solid black;
+    margin: -34px -109px -1px -15px;
+    background-color: #3f51b5;
+    padding:10px; 
+}
+.toss
+{
+    overflow-x: scroll;
+    overflow-y:hidden;
+    width: 450px;
+    margin-top: 18px;
+
+}
+.Runs
+{
+    border:1px solid black;
+    margin: -34px -51px -1px -16px;
+    background-color: #3f51b5;
+    padding:10px; 
+}
+.bowling
+{
+    font-size:20px;
+    font-weight:auto;
+    color: aliceblue;
+    margin:0px 101px 0px 20px;
+}
+.dismissal-types
+{
+    margin-top:20px;
+}
+.runs-vs
+{
+    margin-top: 20px;
+}
+.dismissal
+{
+    border:1px solid black;
+    margin: -34px -53px -1px -16px;
+    background-color: #3f51b5;
+    padding:10px; 
+}
+div.card-deck .card {
+    display: flex;
+    border: 1px solid;
+    margin: 0px 40px 0px 20px;
+    padding: 33px;
+    width: 530px;
+    height: 280px;
+}
+.MuiGrid-root{
+    margin-top: 20px;
+    margin-left:20px;
+}
+
+.deck{
+    margin:40px 40px 40px 128px;
+}
+.matches-won{
+    border:1px solid;
+    margin: 20px 14px 20px -33px;
+    padding: 20px 109px 20px 15px;
+}
+
+.overall-matches{
+    border:1px solid;
+    margin: 20px 14px 20px 19px;
+    padding: 20px 119px 20px 15px;
+}
+.bowl-charts
+{
+    margin:20px;
+} 
+}
+@media(min-width:769px) and (max-width:1024px)
+{   .top-batsmen
+    {
+        border: 1px solid;
+        margin: 40px 20px 20px 100px;
+        padding: 20px 50px 20px 15px;
+    }
+    .top-bowler
+    {
+        border: 1px solid;
+        margin: 40px 20px 20px 557px;
+        padding: 20px 52px 20px 15px;
+    }
+    .dotballs
+    {
+        border: 1px solid;
+        margin: 40px 20px 20px 100px;
+        padding: 20px 50px 20px 15px;
+    }
+    .bowling-types
+    {
+        border: 1px solid;
+        margin: 40px 20px 20px 557px;
+        padding: 20px 52px 20px 15px;
+    }
+    .compounds-1
+    {
+    border:1px solid black;
+    margin: -34px -53px -1px -16px;
+    background-color: #3f51b5;
+    padding:10px;
+    }
+.Rabi
+{
+    font-size:20px;
+    font-weight:auto;
+    color: aliceblue;
+    margin:0px 101px 0px 20px;
+}
+.compounds
+{
+    border:1px solid black;
+    margin: -34px -51px -1px -16px;
+    background-color: #3f51b5;
+    padding:10px;
+}
+.charts{
+    overflow-x: scroll;
+    overflow-y:hidden;
+    width: 500px;
+    margin-top: 1px;
+}
+.overall
+{
+    border:1px solid black;
+    margin: -33px -120px -1px -16px;
+    background-color: #3f51b5;
+    padding:10px;
+
+}
+.won-toss
+{
+    border:1px solid black;
+    margin: -34px -109px -1px -15px;
+    background-color: #3f51b5;
+    padding:10px; 
+}
+.toss
+{
+    overflow-x: scroll;
+    overflow-y:hidden;
+    width: 450px;
+    margin-top: 18px;
+
+}
+.Runs
+{
+    border:1px solid black;
+    margin: -34px -51px -1px -16px;
+    background-color: #3f51b5;
+    padding:10px; 
+}
+.bowling
+{
+    font-size:20px;
+    font-weight:auto;
+    color: aliceblue;
+    margin:0px 101px 0px 20px;
+}
+.dismissal-types
+{
+    margin-top:20px;
+}
+.runs-vs
+{
+    margin-top: 20px;
+}
+.dismissal
+{
+    border:1px solid black;
+    margin: -34px -53px -1px -16px;
+    background-color: #3f51b5;
+    padding:10px; 
+}
+div.card-deck .card {
+    display: flex;
+    border: 1px solid;
+    margin: 0px 40px 0px 20px;
+    padding: 33px;
+    width: 530px;
+    height: 280px;
+}
+.MuiGrid-root{
+    margin-top: 20px;
+    margin-left:20px;
+}
+
+.deck{
+    margin:40px 40px 40px 128px;
+}
+.matches-won{
+    border:1px solid;
+    margin: 20px 14px 20px -33px;
+    padding: 20px 109px 20px 15px;
+}
+
+.overall-matches{
+    border:1px solid;
+    margin: 20px 14px 20px 183px;
+    padding: 20px 119px 20px 15px;
+}
+.bowl-charts
+{
+    margin:20px;
+} 
+}
+@media(min-width:577px) and (max-width:769px)
+{
+    .compounds-1
+    {
+        border:1px solid black;
+    margin: -34px -53px -1px -16px;
+    background-color: #3f51b5;
+    padding:10px;
+    }
+    .top-batsmen
+    {
+        border: 1px solid;
+        margin: 40px 20px 20px 100px;
+        padding: 20px 50px 20px 15px;
+    }
+    .top-bowler
+    {
+        border: 1px solid;
+        margin: 40px 20px 20px 604px;
+        padding: 20px 52px 20px 15px;
+    }
+    .dotballs
+    {
+        border: 1px solid;
+        margin: 40px 20px 20px 100px;
+        padding: 20px 50px 20px 15px;
+    }
+    .bowling-types
+    {
+        border: 1px solid;
+        margin: 40px 20px 20px 604px;
+        padding: 20px 52px 20px 15px;
+    }
+.Rabi
+{
+    font-size:20px;
+    font-weight:auto;
+    color: aliceblue;
+    margin:0px 101px 0px 20px;
+}
+.compounds
+{
+    border:1px solid black;
+    margin: -34px -51px -1px -16px;
+    background-color: #3f51b5;
+    padding:10px;
+}
+.charts{
+    overflow-x: scroll;
+    overflow-y:hidden;
+    width: 500px;
+    margin-top: 3px;
+}
+.overall
+{
+    border:1px solid black;
+    margin: -33px -120px -1px -16px;
+    background-color: #3f51b5;
+    padding:10px;
+
+}
+.won-toss
+{
+    border:1px solid black;
+    margin: -34px -110px -1px -16px;
+    background-color: #3f51b5;
+    padding:10px; 
+}
+.toss
+{
+    overflow-x: scroll;
+    overflow-y:hidden;
+    width: 450px;
+    margin-top: 18px;
+
+}
+.Runs
+{
+    border:1px solid black;
+    margin: -34px -51px -1px -16px;
+    background-color: #3f51b5;
+    padding:10px; 
+}
+.bowling
+{
+    font-size:20px;
+    font-weight:auto;
+    color: aliceblue;
+    margin:0px 101px 0px 20px;
+}
+.dismissal-types
+{
+    margin-top:20px;
+}
+.runs-vs
+{
+    margin-top: 20px;
+}
+.dismissal
+{
+    border:1px solid black;
+    margin: -34px -53px -1px -16px;
+    background-color: #3f51b5;
+    padding:10px; 
+}
+div.card-deck .card {
+    display: flex;
+    border: 1px solid;
+    margin: 0px 40px 0px 20px;
+    padding: 33px;
+    width: 530px;
+    height: 280px;
+}
+.MuiGrid-root{
+    margin-top: 20px;
+    margin-left:20px;
+}
+
+.deck{
+    margin:40px 40px 40px 128px;
+}
+.matches-won{
+    border:1px solid;
+    margin: 20px 14px 20px -33px;
+    padding: 20px 109px 20px 15px;
+}
+
+.overall-matches{
+    border:1px solid;
+    margin: 20px 14px 20px 311px;
+    padding: 20px 119px 20px 15px;
+}
+.bowl-charts
+{
+    margin:20px;
+} 
+}
+@media(min-width:300px) and (max-width:576px)
+{
+    
+    .bowl-charts
+    {
+        margin:20px;
+        width:374px;
+        overflow-x: scroll;
+    overflow-y:hidden; 
+    }
+    .overall
+    {
+        border: 1px solid black;
+        margin: -33px -409px -1px -16px;
+        background-color: #3f51b5;
+        padding: 10px;
+    }
+   
+    .overall-matches
+    {
+        border: 1px solid;
+    margin: 52px 14px 20px 99px;
+    padding: 20px 408px 20px 15px;
+
+    }
+    .won-toss{
+        border:1px solid black;
+        margin: -34px -409px -1px -17px;
+        background-color: #3f51b5;
+        padding:10px; 
+    }
+    .matches-won{
+        border: 1px solid;
+    margin: 73px 14px 20px 98px;
+    padding: 20px 408px 20px 15px;
+    }
+    .dismissal-types
+{
+    margin-top:20px;
+    overflow-x: scroll;
+    overflow-y:hidden;
+    width:400px;
+}
+    .toss
+{
+    overflow-x: scroll;
+    overflow-y:hidden;
+    width: 390px;
+    margin-top: 18px;
+
+}
+    .bowling
+{
+    font-size:20px;
+    font-weight:auto;
+    color: aliceblue;
+    margin:0px 35px 0px 20px;
+}
+    .dismissal
+{
+    border: 1px solid black;
+    margin: -34px -409px -1px -16px;
+    background-color: #3f51b5;
+    padding: 10px;
+}
+   
+    .runs-vs
+    {
+        margin-top: 20px;
+           overflow-x: scroll;
+           width:400px;
+    }
+    .Runs
+{
+    border:1px solid black;
+    margin: -34px -411px -1px -16px;
+    background-color: #3f51b5;
+    padding:10px; 
+}
+    .charts{
+        overflow-x: scroll;
+        overflow-y:hidden;
+        width: 400px;
+        margin-top: 3px;
+    }
+    .Rabi
+{
+    font-size:20px;
+    font-weight:auto;
+    color: aliceblue;
+    margin:0px 101px 0px 20px;
+}
+   
+        .compounds-1 {
+            border: 1px solid black;
+            margin: -34px -407px -1px -16px;
+            background-color: #3f51b5;
+            padding: 10px;
+        }
+    
+
+    .compounds
+{
+    border:1px solid black;
+    margin: -34px -425px -1px -1px;
+    background-color: #3f51b5;
+    padding:10px;
+}
+.top-batsmen
+{
+    border: 1px solid;
+    margin: 40px 20px 20px 100px;
+    padding: 20px 423px 20px 0px;
+}
+.top-bowler
+{
+    border: 1px solid;
+    margin: 40px 20px 20px 102px;
+    padding: 20px 407px 20px 15px;
+}
+.dotballs
+{
+    border: 1px solid;
+    margin: 40px 20px 20px 100px;
+    padding: 20px 408px 20px 15px;
+}
+.bowling-types
+{
+    border: 1px solid;
+    margin: 40px 20px 20px 98px;
+    padding: 20px 408px 20px 15px;
+}
+}

@@ -1,0 +1,25 @@
+@media (min-width:768px ) and (max-width:1025px)
+{
+   h5.MuiTypography-root.makeStyles-title-2.MuiTypography-h5.MuiTypography-noWrap
+   {
+       margin-left:635px;
+   }
+   header.MuiPaper-root.MuiAppBar-root.MuiAppBar-positionRelative.MuiAppBar-colorPrimary.MuiPaper-elevation4
+{
+    width:1482px;
+}
+}
+@media(min-width:1025px)
+{
+header.MuiPaper-root.MuiAppBar-root.MuiAppBar-positionRelative.MuiAppBar-colorPrimary.MuiPaper-elevation4
+{
+    width:1349px;
+}
+}
+@media(min-width:300px) and (max-width:577px)
+{
+    header.MuiPaper-root.MuiAppBar-root.MuiAppBar-positionRelative.MuiAppBar-colorPrimary.MuiPaper-elevation4
+{
+    width:550px;
+}
+}

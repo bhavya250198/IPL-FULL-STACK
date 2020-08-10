@@ -1,0 +1,395 @@
+@media(min-width:1025px)
+{
+    .sseasons
+    {
+        font-size:22px;
+    }
+    .seas-number{
+        font-size:30px;
+    }
+    .steams{
+        font-size:22px;
+    }
+    .seas-teams{
+        font-size:30px;
+    }
+    .smatches{
+        font-size:22px;
+    }
+    .seas-matches{
+        font-size:30px;
+    }
+.sfours{
+    font-size:22px;
+}
+.seas-fours{
+    font-size:30px;
+}
+.ssixes{
+    font-size:22px;
+
+}
+.seas-sixes{
+    font-size:30px;
+}
+.seas-wickets{
+    font-size:30px;
+    
+}
+.swickets{
+    font-size:22px;
+}
+.season-number
+{
+    border:1px solid;
+    padding: 27px;
+    margin-left:100px;  
+    margin-top:20px ; 
+    margin-right:55px; 
+}
+.season-teams
+{
+    border: 1px solid;
+    padding: 27px;
+    margin-left: 7px;
+    margin-top: 20px;
+    margin-right: 0px;
+
+}
+.season-matches
+{
+    border:1px solid;
+
+    padding: 27px;
+    margin-left: 49px;
+    margin-top: 20px;
+    margin-right: 36px;
+
+}
+.fours
+{
+    border:1px solid;
+
+    padding: 27px;
+    margin-left:49px;  
+    margin-top:20px ; 
+    margin-right:55px;  
+}
+.sixes
+{
+    border:1px solid;
+
+    padding: 27px;
+    margin-left:49px;  
+    margin-top:20px ; 
+    margin-right:61px;
+}
+.wickets
+{
+    border: 1px solid;
+    padding: 27px;
+    margin-left: 14px;
+    margin-top: 20px;
+    margin-right: 83px;
+}
+}
+@media(min-width:769px) and (max-width:1025px)
+{
+    .sseasons
+    {
+        font-size:22px;
+    }
+    .seas-number{
+        font-size:30px;
+    }
+    .steams{
+        font-size:22px;
+    }
+    .seas-teams{
+        font-size:30px;
+    }
+    .smatches{
+        font-size:22px;
+    }
+    .seas-matches{
+        font-size:30px;
+    }
+.sfours{
+    font-size:22px;
+}
+.seas-fours{
+    font-size:30px;
+}
+.ssixes{
+    font-size:22px;
+
+}
+.seas-sixes{
+    font-size:30px;
+}
+.seas-wickets{
+    font-size:30px;
+    
+}
+.swickets{
+    font-size:22px;
+}
+
+.season-number
+{
+    border:1px solid;
+
+    padding: 27px;
+    margin-left:100px;  
+    margin-top:20px ; 
+    margin-right:55px; 
+}
+.season-teams
+{
+    border:1px solid;
+
+    padding: 27px;
+    margin-left: 49px;
+    margin-top: 20px;
+    margin-right: 55px;
+}
+.season-matches
+{
+    border:1px solid;
+
+    padding: 27px;
+    margin-left: 49px;
+    margin-top: 20px;
+    margin-right: 55px;
+
+}
+.fours
+{
+    border:1px solid;
+
+    padding: 27px;
+    margin-left:49px;  
+    margin-top:20px ; 
+    margin-right:55px;  
+}
+.sixes
+{
+    border:1px solid;
+
+    padding: 27px;
+    margin-left:49px;  
+    margin-top:20px ; 
+    margin-right:55px;
+}
+.wickets
+{
+    border:1px solid;
+
+    padding: 27px;
+    margin-left:49px;  
+    margin-top:20px ; 
+    margin-right:55px;
+}
+}
+@media(min-width:577px) and (max-width:769px)
+{
+    .sseasons
+    {
+        font-size:22px;
+    }
+    .seas-number{
+        font-size:30px;
+    }
+    .steams{
+        font-size:22px;
+    }
+    .seas-teams{
+        font-size:30px;
+    }
+    .smatches{
+        font-size:22px;
+    }
+    .seas-matches{
+        font-size:30px;
+    }
+.sfours{
+    font-size:22px;
+}
+.seas-fours{
+    font-size:30px;
+}
+.ssixes{
+    font-size:22px;
+
+}
+.seas-sixes{
+    font-size:30px;
+}
+.seas-wickets{
+    font-size:30px;
+    
+}
+.swickets{
+    font-size:22px;
+}
+
+.season-number
+{
+    
+    border:1px solid;
+
+    padding: 27px;
+    margin-left:100px;  
+    margin-top:20px ; 
+    margin-right:55px; 
+}
+.season-teams
+{
+    border:1px solid;
+
+    padding: 27px;
+    margin-left: 49px;
+    margin-top: 20px;
+    margin-right: 55px;
+}
+.season-matches
+{
+    border:1px solid;
+
+    padding: 27px;
+    margin-left: 49px;
+    margin-top: 20px;
+    margin-right: 55px;
+
+}
+.fours
+{
+    border:1px solid;
+
+    padding: 27px;
+    margin-left:49px;  
+    margin-top:20px ; 
+    margin-right:55px;  
+}
+.sixes
+{
+    border:1px solid;
+
+    padding: 27px;
+    margin-left:49px;  
+    margin-top:20px ; 
+    margin-right:55px;
+}
+.wickets
+{
+    border:1px solid;
+
+    padding: 27px;
+    margin-left:49px;  
+    margin-top:20px ; 
+    margin-right:55px;
+}
+}
+@media(min-width:300px) and (max-width:577px)
+{
+    .sseasons
+    {
+        margin-left:-5px;
+        font-size:22px;
+    }
+    .seas-number{
+        margin:20px;
+        font-size:30px;
+    }
+    .steams{
+        margin:2px;
+        font-size:22px;
+    }
+    .seas-teams{
+        margin: 20px;
+        font-size:30px;
+    }
+    .smatches{
+        margin-left:-3px;
+        font-size:22px;
+    }
+    .seas-matches{
+        margin:20px;
+        font-size:30px;
+    }
+.sfours{
+    margin:6px;
+    font-size:22px;
+}
+.seas-fours{
+    font-size:30px;
+}
+.ssixes{
+    margin:6px;
+    font-size:22px;
+
+}
+.seas-sixes{
+    margin:5px;
+    font-size:30px;
+}
+.seas-wickets{
+    margin: 10px;
+    font-size:30px;
+    
+}
+.swickets{
+    font-size:22px;
+    
+}
+    .season-number
+    {
+        
+        border: 1px solid;
+        padding: 27px 100px 27px 33px;
+        margin-left: 228px;
+        margin-top: 20px;
+        margin-right: 55px; 
+    }
+    .season-teams
+    {
+        border: 1px solid;
+    padding: 27px 102px 27px 27px;
+    margin-left: 228px;
+    margin-top: 20px;
+    margin-right: 55px;
+    }
+    .season-matches
+    {
+        border: 1px solid;
+        padding: 27px 102px 27px 27px;
+        margin-left: 228px;
+        margin-top: 20px;
+        margin-right: 55px;
+    
+    }
+    .fours
+    {    border: 1px solid;
+        padding: 27px 102px 27px 27px;
+        margin-left: 228px;
+        margin-top: 20px;
+        margin-right: 55px; 
+    }
+    .sixes
+    {
+        border: 1px solid;
+    padding: 27px 102px 27px 27px;
+    margin-left: 228px;
+    margin-top: 20px;
+    margin-right: 55px;
+    }
+    .wickets
+    {
+        border: 1px solid;
+        padding: 27px 102px 27px 27px;
+        margin-left: 228px;
+        margin-top: 20px;
+        margin-right: 55px;
+    } 
+    
+}
